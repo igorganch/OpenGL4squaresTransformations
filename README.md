@@ -1,5 +1,5 @@
 # OpenGL4squaresTransformations
-A OpenGL app that generates 4 squares which the user can alter th transformations by rotating, scaling and altering the location.
+A OpenGL app that generates 4 squares which the user can alter the transformations by rotating, scaling and altering the location.
 # How to start 
 Download the git Repository
 # Functionality
