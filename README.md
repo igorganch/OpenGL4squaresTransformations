@@ -1,7 +1,7 @@
 # OpenGL4squaresTransformations
-### A OpenGL app that generates 4 squares which the user can alter th transformations by rotating, scaling and altering the location.
+A OpenGL app that generates 4 squares which the user can alter th transformations by rotating, scaling and altering the location.
 # How to start 
-### Download the git Repository
+Download the git Repository
 # Functionality
 ## To start press the "R" key to initiate a rotation of a random cube
 ![SCREENSHOT](https://github.com/igorganch/OpenGL4squaresTransformations/blob/main/Normal.PNG)
