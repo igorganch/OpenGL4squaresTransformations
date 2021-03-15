@@ -12,4 +12,4 @@
 ![SCREENSHOT](https://github.com/igorganch/OpenGL4squaresTransformations/blob/main/SkeyPressed.PNG)
 ## To set the cubes to the original position press the "Q" key 
 ![SCREENSHOT](https://github.com/igorganch/OpenGL4squaresTransformations/blob/main/Normal.PNG)
-
+## To quit the app press "M"
