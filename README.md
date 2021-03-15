@@ -10,5 +10,6 @@
 ![SCREENSHOT](https://github.com/igorganch/OpenGL4squaresTransformations/blob/main/WkeyPressed.PNG)
 ## To scale the cube twice it's size press the "S" key
 ![SCREENSHOT](https://github.com/igorganch/OpenGL4squaresTransformations/blob/main/SkeyPressed.PNG)
-
+## To set the cubes to the original position press the "Q" key 
+![SCREENSHOT](https://github.com/igorganch/OpenGL4squaresTransformations/blob/main/Normal.PNG)
 
