@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\IGORG\Desktop\OpenGLTutorials\OpenGL4squares\shaderinit.h(56,40): warning C4101: 'e': unreferenced local variable
+C:\Users\IGORG\Desktop\OpenGLTutorials\OpenGL4squares\Source.cpp(111,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\IGORG\Desktop\OpenGLTutorials\OpenGL4squares\Source.cpp(126,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenGLTemplate.vcxproj -> C:\Users\IGORG\Desktop\OpenGLTutorials\OpenGL4squares\x64\Debug\OpenGLTemplate.exe

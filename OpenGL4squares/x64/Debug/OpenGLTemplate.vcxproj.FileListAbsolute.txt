@@ -1,0 +1,8 @@
+C:\Users\IGORG\Desktop\OpenGLTutorials\OpenGLTemplate\x64\Debug\OpenGLTemplate.exe
+C:\Users\IGORG\Desktop\OpenGLTutorials\OpenGLTemplate\x64\Debug\OpenGLTemplate.pdb
+C:\Users\IGORG\Desktop\OpenGLTutorials\OpenGLTwoTrianglesSeparateShaders\x64\Debug\OpenGLTemplate.exe
+C:\Users\IGORG\Desktop\OpenGLTutorials\OpenGLTwoTrianglesSeparateShaders\x64\Debug\OpenGLTemplate.pdb
+C:\Users\IGORG\Desktop\OpenGLTutorials\OpenGLTwoTrianglesSeparateShaders - Copy\x64\Debug\OpenGLTemplate.exe
+C:\Users\IGORG\Desktop\OpenGLTutorials\OpenGLTwoTrianglesSeparateShaders - Copy\x64\Debug\OpenGLTemplate.pdb
+C:\Users\IGORG\Desktop\OpenGLTutorials\OpenGL4squares\x64\Debug\OpenGLTemplate.exe
+C:\Users\IGORG\Desktop\OpenGLTutorials\OpenGL4squares\x64\Debug\OpenGLTemplate.pdb
